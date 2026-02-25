@@ -40,7 +40,9 @@ Optimized (Arcade_1.java): Implements HashMap to optimize retrieval speeds for l
 Clone the repository:
 
 Bash
-```git clone https://github.com/your-username/Arcade-Simulation-System.git```
+```
+git clone https://github.com/your-username/Arcade-Simulation-System.git
+```
 Ensure customers.txt and games.txt are in the root directory.
 
 Compile and run:
